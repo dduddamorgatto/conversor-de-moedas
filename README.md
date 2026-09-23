@@ -48,4 +48,4 @@ Enter value to be converted: 100
 
 ## Author
 
-Made in [ddudamorgatto](https://github.com/ddudamorgatto)
+Made in [dduddamorgatto](https://github.com/ddudamorgatto)
