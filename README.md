@@ -1,10 +1,10 @@
 # 💱 Currency converter
 
-Python currency converter with real-time quotation, made as a study projetc. 
+Python currency converter with real-time quotation, made as a study project. 
 ## Features
 
 - Conversion among more than 150 coins
-- Quotation uodate in real time via API
+- Quotation update in real time via API
 - Error handling (invalid currency, invalid value)
 - Allows multiple conversions without restarting the program
 - Coloured interface in the terminal
@@ -30,11 +30,13 @@ python conversor.py
 
 === Currency converter ===
 
+E=== Currency converter ===
 Enter the currency of origin: usd
 Enter the destination currency: brl
 Enter value to be converted: 100
 
 ✅ 100.0 USD = 514.41 BRL
+
 
 
 ## Technologies
