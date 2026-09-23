@@ -28,7 +28,8 @@ python conversor.py
 
 ## Example
 
-=== urrency converter ===
+=== Currency converter ===
+
 Enter the currency of origin: usd
 Enter the destination currency: brl
 Enter value to be converted: 100
