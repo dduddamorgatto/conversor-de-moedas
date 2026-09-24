@@ -30,9 +30,10 @@ python conversor.py
 
 === Currency converter ===
 
-E=== Currency converter ===
 Enter the currency of origin: usd
+
 Enter the destination currency: brl
+
 Enter value to be converted: 100
 
 ✅ 100.0 USD = 514.41 BRL
